@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Account\Account\bin\Debug\Account.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Account\Account\bin\Debug\Account.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Account\Account\bin\Debug\Account.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Account\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Account\Account\obj\Debug\Account.Account.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Account\Account\obj\Debug\Account.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Account\Account\obj\Debug\Account.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Account\Account\obj\Debug\Account.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Account\Account\obj\Debug\Account.pdb
